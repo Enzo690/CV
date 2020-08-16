@@ -1,0 +1,22 @@
+.skills-bg{
+    text-align: center;
+  background-color: #1f2726;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  color: white;
+  position: fixed;
+  z-index: 1;
+}
+
+.contRound{
+    height: 300px;
+    margin-top: 75px;
+}
+
+.roundedPics{
+    height: 250px;
+    width: 250px;
+    border-radius: 300px;
+    background-color: orange;
+}
